@@ -1,0 +1,5 @@
+distribute==0.6.24
+mock==0.8.0
+py==1.4.7
+pytest==2.2.3
+wsgiref==0.1.2
