@@ -17,7 +17,7 @@ PIDFILE = None
 def setup_module(module):
     tempconf = tempfile.NamedTemporaryFile(delete=False)
     module.PIDFILE = tempconf.name
-    with open(tempconf.name, "wb") as fh:
+    with open(tempconf.name, "w") as fh:
         fh.write('1234')
 
 def setUpModule():
