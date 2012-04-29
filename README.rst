@@ -1,6 +1,6 @@
 Nice *nix deamonizing
 
 
-.. image:: https://secure.travis-ci.org/davidmiller/rpc.png?branch=master
+.. image:: https://secure.travis-ci.org/davidmiller/doublefork.png?branch=master
    :alt: Build Status
-   :target: https://secure.travis-ci.org/davidmiller/rpc
+   :target: https://secure.travis-ci.org/davidmiller/doublefork
