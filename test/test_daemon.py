@@ -1,5 +1,5 @@
 """
-Unittests for the rpc.daemon module
+Unittests for the doublefork.daemon module
 """
 import os
 import sys
